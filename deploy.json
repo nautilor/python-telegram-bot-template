@@ -1,0 +1,18 @@
+{
+    "production": {
+        "package": "build",
+        "host": "HOSTNAME",
+        "username": "SSH_USERNAME",
+        "destination": "WHERE_TO_PLACE_THE_FILE",
+        "service": "SERVICE_TO_RESTART",
+        "ssh": "SSH_KEY_PATH"
+    },
+    "quality": {
+        "package": "build",
+        "host": "HOSTNAME",
+        "username": "SSH_USERNAME",
+        "destination": "WHERE_TO_PLACE_THE_FILE",
+        "service": "SERVICE_TO_RESTART",
+        "ssh": "SSH_KEY_PATH"
+    }
+}
